@@ -1,0 +1,71 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    .namecolor{
+      color: darkolivegreen;
+    }
+    margin: 0%;
+}
+h1{
+  font-size: 40px;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 5%;
+  }
+.banner{
+  background-image: url(Images/top-banner.png);
+  background-repeat: no-repeat;
+  
+}
+ .half img{
+    width: 100%;
+  }
+  section{
+    height: 500px;
+    padding-bottom: 200px;
+  }
+  .link{
+    text-decoration: none ;
+    background-image: linear-gradient( 45deg, lightblue, tomato);
+    padding: 10px 20px ;
+    border-radius: 8px;
+    color: whitesmoke;
+    font-weight: bold;
+  }
+  .dream{
+    background-image: url(Images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+  }
+  .experiences{
+    background-image: url(Images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: :left;
+  }
+  .ol{
+    margin-left: 150px;
+  }
+ .halfs{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 5%;
+    box-shadow: 10px 10px 40px grey ;
+   }
+  #stack{
+    border-left: 7px solid ;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+  }
+  #stack2{
+    border-left: 7px solid ;
+    border-image: linear-gradient(180deg, blue, cyan );
+    border-image-slice: 1;
+  }
+  footer p {
+    text-align: center;
+    font-size: 15px;
+    font-family: unset;
+  }
