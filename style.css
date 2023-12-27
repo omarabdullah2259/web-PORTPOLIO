@@ -42,9 +42,7 @@ h1{
   .experiences{
     background-image: url(Images/exp-bg.png);
     background-repeat: no-repeat;
-    background-position: left;
-    text-align: justify;
-    margin-top: 2cm;
+    background-position: :left;
   }
   .ol{
     margin-left: 150px;
